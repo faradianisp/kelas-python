@@ -25,3 +25,4 @@ print(x)
 ## Ini adalah tulisan yang ditambahkan lewat github.com
 
 ## yang ini saya tulis dari laptop
+## Ini saya update dari github.com supaya terjadi perubahaan barengan
